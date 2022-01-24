@@ -1,9 +1,15 @@
-/* Typography */
+/* Set Poppins as Main Font */
 :root * {
   font-family: "Poppins", sans-serif;
 }
 
-/* Carousel */
+/* Fix Carousel Images Aspect Ratio */
 .carousel img {
   aspect-ratio: 2.46575342466;
+}
+
+/* Reset Marker Styles */
+#packages ul {
+  padding: 0;
+  list-style: none;
 }
