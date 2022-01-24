@@ -1,0 +1,9 @@
+/* Typography */
+:root * {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Carousel */
+.carousel img {
+  aspect-ratio: 2.46575342466;
+}
